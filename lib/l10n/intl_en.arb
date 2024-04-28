@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter i18n",
+  "@appTitle": {
+    "description": "Main application title"
+  },
+  "welcome": "Welcome!"
+}

@@ -1,0 +1,4 @@
+#Sun Apr 28 14:08:40 IST 2024
+base.0=C\:\\Test Projects\\Ready To Git\\i18n_demo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
